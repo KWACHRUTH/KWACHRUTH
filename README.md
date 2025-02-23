@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KWACHRUTH
-- 👀 I’m interested in becoming a web developer
+- 👋 Hi, I’m JOY RUTH
+- 👀 I’m interested in becoming a software developer
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Ig @devlyn-d
 -                      contact +254115552044
-- 😄 Pronouns: she is me ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: joking
 
 <!---
